@@ -1,0 +1,20 @@
+{
+  "name": "websocket-tunnel-server",
+  "version": "1.0.0",
+  "description": "HTTPS/WebSocket tunnel proxy for Render.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "vpn",
+    "proxy",
+    "websocket",
+    "tunnel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
